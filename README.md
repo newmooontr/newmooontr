@@ -20,4 +20,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newmooontr&" alt="newmooontr" /></p>
 
 
-
+<div align="center">
+<!--   <a href=""> -->
+  <img  src="https://github.com/newmooontr/snake/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
