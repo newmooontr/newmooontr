@@ -55,7 +55,7 @@
 <h3 align="left">:mailbox: &nbsp;Feel Free to Contact me.....</h3>
 <p align="center">
 	<a href="https://github.com/newmooontr"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/hasan-c-91031822b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://linkedin.com/in/hilal-d/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	
 </p>
 <p align="center"><b> Thank You for visiting my profile :pray:</b></p>
