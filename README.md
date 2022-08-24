@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Front End Developer**
+- 🌱 I’m currently learning **FrontEnd Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
