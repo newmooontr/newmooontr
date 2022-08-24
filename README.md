@@ -30,14 +30,14 @@
 <br>
 <div align="center">
   <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AdamHopeful&theme=react-dark" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=newmooon&theme=react-dark" />
   </a>
 </div>
 <!-- <div align="center">
   <a href="#">
     <h2>:trophy: Github Profile Trophy :trophy:</h2>    
         <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=AdamHopeful&column=8&theme=onedark&no-frame=true&margin-w=15" />    
+      src="https://github-profile-trophy.vercel.app/?username=newmooon&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
 </div> -->
 <!-- ![snake gif](https://github.com/newmooontr/blob/output/github-contribution-grid-snake.gif)
