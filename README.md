@@ -9,7 +9,13 @@
 <h1 align="center">Hi 👋, I'm newmoon</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-https://cdn.pixabay.com/photo/2019/03/12/20/27/work-4051777_960_720.jpg
+ <p align="center">
+
+  <img src="https://cdn.pixabay.com/photo/2019/03/12/20/27/work-4051777_960_720.jpg" alt="work" width="800" height="400">
+  
+</p>
+
+
 
 
 
