@@ -11,7 +11,8 @@
 
  <p align="center">
 
-  <img src="https://cdn.pixabay.com/photo/2019/03/12/20/27/work-4051777_960_720.jpg" alt="work" width="800" height="400">
+  <img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406__340.jpg" alt="work" width="800" height="400">
+	
   
 </p>
 
