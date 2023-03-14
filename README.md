@@ -13,7 +13,6 @@
 
   <img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406__340.jpg" alt="work" width="800" height="400">
 	
-  
 </p>
 
 
