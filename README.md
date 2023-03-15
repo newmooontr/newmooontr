@@ -9,9 +9,7 @@
 <h1 align="center">Hi 👋, I'm newmoon</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p>
-	<img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406__340.jpg"/>
-</p>
+
 
 
 
